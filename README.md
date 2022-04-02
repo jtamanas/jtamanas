@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="justify">
 
 
-As a member of both Stefano Profumo’s [**SCIPP**][SCIPP] Theory group at UC Santa Cruz and Joseph Hennawi’s [**ENIGMA**][ENIGMA] group at UC Santa Barbara and Leiden Observatory, I work at the intersection of physics, deep learning, and statistics.
+As a member of both Stefano Profumo’s [**SCIPP**][SCIPP] Theory group at UC Santa Cruz and Joseph Hennawi’s [**ENIGMA**][ENIGMA] group at UC Santa Barbara and Leiden Observatory, I work at the intersection of (high energy/astro)physics, deep learning, and statistics.
 
 In my time as a graduate student, I’ve been lucky enough to work on projects with the world’s leading experts on applied deep learning. I have worked on deepening (pun intended) the understanding of current theories for a variety of topics: From beyond standard model particle physics, to the structure of the Milky Way, and the cosmological history of the universe.
 
