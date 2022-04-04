@@ -34,7 +34,7 @@ You might know me from my work on:
   
 1. [**Spectre**][Spectre]: Approximate Bayesian algorithm for SOTA quasar continuum inference.
 2. [**Via Machinae**][VM]: Unsupervised anomaly detection to discover stellar streams in the Milky Way.
-3. [**Simulation-Based Inference**][SBI]: Approximate Sequential Bayesian algorithms written in Jax with applications to high energy physics phenomenology.
+3. [**Simulation-Based Inference**][SaxBI]: Approximate Sequential Bayesian algorithms written in JAX. Used with applications to [high energy physics phenomenology][pMSSM] and future quasar inference work. 
 
 
 </div>
@@ -48,7 +48,8 @@ You might know me from my work on:
 
 [Spectre]: https://github.com/davidreiman/spectre/
 [VM]: https://arxiv.org/abs/2104.12789
-[SBI]: https://github.com/jtamanas/LBI
+[pMSSM]: https://arxiv.org/abs/2203.13403
+[SaxBI]: https://github.com/jtamanas/SaxBI
 
 [email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github
