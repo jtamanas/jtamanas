@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Who am I?
-
 [![Website][website-badge]][website]
 [![Email][email-badge]][email]
 [![GitHub][github-badge]][github]
