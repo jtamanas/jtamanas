@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jtamanas/jtamanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +15,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![Website][website-badge]][website]
-[![Email][email-badge]][email]
-[![GitHub][github-badge]][github]
+  ### Hey there superstar 🌟
+  
+  [![Website][website-badge]][website]
+  [![Email][email-badge]][email]
+  [![GitHub][github-badge]][github]
 
 </div>
 
@@ -32,11 +33,10 @@ In my time as a graduate student, I’ve been lucky enough to work on projects w
   
 You might know me from my work on:
   
-1. [**Spectre**][Spectre]: Approximate Bayesian algorithm for SOTA quasar continuum inference.
+1. [**Simulation-Based Inference**][SaxBI]: Approximate Sequential Bayesian algorithms written in JAX. Used with applications to [high energy physics phenomenology][pMSSM] and future quasar inference work. 
 2. [**Via Machinae**][VM]: Unsupervised anomaly detection to discover stellar streams in the Milky Way.
-3. [**Simulation-Based Inference**][SaxBI]: Approximate Sequential Bayesian algorithms written in JAX. Used with applications to [high energy physics phenomenology][pMSSM] and future quasar inference work. 
-
-
+3. [**Spectre**][Spectre]: Approximate Bayesian algorithm for SOTA quasar continuum inference.
+  
 </div>
 
 [website]: https://jtamanas.github.io
