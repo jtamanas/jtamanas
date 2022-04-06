@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   
   [![Website][website-badge]][website]
   [![Email][email-badge]][email]
-  [![GitHub][github-badge]][github]
 
 </div>
 
